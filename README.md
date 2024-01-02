@@ -1,4 +1,4 @@
-# 井田 献一朗
+# IDA Kenichiro
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinatz&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
