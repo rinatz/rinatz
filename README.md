@@ -1,4 +1,4 @@
-# 井田 献一朗
+# Profile
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinatz&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
